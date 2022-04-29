@@ -1,0 +1,1 @@
+Private members of a class can only and only accessed by the functions defined in the class.
